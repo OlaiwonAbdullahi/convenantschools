@@ -3,7 +3,6 @@
 import { useState, useEffect } from "react";
 import { IconMenu, IconX } from "@tabler/icons-react";
 import Link from "next/link";
-import Image from "next/image";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -19,7 +18,6 @@ const Navbar = () => {
 
   const navLinks = [
     { name: "About", href: "/about" },
-    { name: "Contact", href: "/contact" },
     { name: "Admissions", href: "/admissions" },
     { name: "Academics", href: "/academics" },
     { name: "News & Events", href: "/news-events" },
