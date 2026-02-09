@@ -43,7 +43,7 @@ const Academics = () => {
               key={index}
               className="bg-white p-10 rounded-2xl transition-all duration-300 hover:shadow-xl hover:shadow-pink-500/10 hover:border-pink-500 border-2 border-transparent group"
             >
-              <div className="w-16 h-16 bg-pink-100 rounded-2xl flex items-center justify-center mb-8 group-hover:bg-pink-500 transition-colors duration-300">
+              <div className="w-16 h-16 bg-pink-100 rounded-md flex items-center justify-center mb-8 group-hover:bg-pink-500 transition-colors duration-300">
                 <program.icon
                   className="text-pink-500 group-hover:text-white transition-colors duration-300"
                   size={32}

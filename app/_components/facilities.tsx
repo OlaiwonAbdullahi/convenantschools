@@ -16,7 +16,7 @@ const facilities = [
   {
     name: "Sports Complex",
     image:
-      "https://images.unsplash.com/photo-1541534741688-6078c64b591d?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=2071&auto=format&fit=crop",
   },
   {
     name: "Computer Lab",

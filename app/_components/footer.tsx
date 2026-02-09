@@ -152,7 +152,7 @@ const Footer = () => {
         <div className="border-t border-white/10 pt-10 text-center">
           <p className="font-nunito text-blue-100/40 text-sm">
             &copy; {currentYear} God&apos;s Covenant College. All rights
-            reserved. Designed with excellence.
+            reserved.
           </p>
         </div>
       </div>

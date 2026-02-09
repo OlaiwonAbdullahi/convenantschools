@@ -4,7 +4,6 @@ import Academics from "./_components/academics";
 import WhyChooseUs from "./_components/why-choose-us";
 import Facilities from "./_components/facilities";
 import Testimonials from "./_components/testimonials";
-import CTABanner from "./_components/cta-banner";
 
 const page = () => {
   return (
@@ -15,7 +14,6 @@ const page = () => {
       <WhyChooseUs />
       <Facilities />
       <Testimonials />
-      <CTABanner />
     </main>
   );
 };
